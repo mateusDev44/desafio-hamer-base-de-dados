@@ -1,0 +1,53 @@
+{
+  "funcionario": [
+    {
+      "nome": "Rafael da Silva Moreira",
+      "contribuicao": 20,
+      "bebida": 10,
+      "comida": 10,
+      "id": 1
+    },
+    {
+      "nome": "Jesse Santiago",
+      "contribuicao": 40,
+      "bebida": 20,
+      "comida": 20,
+      "id": 2
+    },
+    {
+      "nome": "Diego Raphael",
+      "contribuicao": 40,
+      "bebida": 20,
+      "comida": 20,
+      "id": 3
+    },
+    {
+      "nome": "Mateus Pereira",
+      "contribuicao": 20,
+      "bebida": 15,
+      "comida": 5,
+      "id": 4
+    },
+    {
+      "nome": "André Luiz",
+      "contribuicao": 40,
+      "bebida": 15,
+      "comida": 25,
+      "id": 5
+    }
+  ],
+  "convidado": [
+    {
+      "nome_convidado": "Eliseu Xavier",
+      "id": 1
+    },
+    {
+      "nome_convidado": "Leonardo Ferreira",
+      "id": 2
+    },
+    {
+      "nome_convidado": "Pedro Felipe",
+      "id": 3
+    }
+  ]
+}
